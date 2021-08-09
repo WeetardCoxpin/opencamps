@@ -1,2 +1,2 @@
 # opencamps
-Application for all camps sites and also poi all over the world.
+Application for all campings sites and also POIs all over the world.
